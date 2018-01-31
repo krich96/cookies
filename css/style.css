@@ -1,0 +1,18 @@
+body{
+  background-color: #f1f1f1;
+  font-family: 'Bree Serif', serif;
+}
+
+h1 {
+color: #7ab72d;
+font-size: 50px;
+}
+
+#huge {
+  font-size: 72px;
+  color:magenta;
+}
+
+.helvetica {
+  font-family: helvetica;
+}
